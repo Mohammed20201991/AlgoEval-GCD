@@ -34,6 +34,52 @@ The repository contains the following Python files:
 ## Usage
 
 ### Clone Repository
-```bash
+```
 git clone https://github.com/your-username/AlgoEval-GCD.git
 cd AlgoEval-GCD
+```
+2. Install Dependencies
+   
+`pip install -r requirements.txt`
+
+4. Run Experiments
+
+- Preprocess the cluster dataset:
+
+`python google_cluster.py`
+
+- Run baseline ML/AI models:
+
+`python ai+cloud.py`
+
+- Apply ensemble learning approaches:
+
+`python ensemble_with_google.py`
+
+- Borg-specific analysis:
+
+`python googleborg.py`
+
+Results
+
+- Evaluation performed on Google Cluster Data v3.
+
+- Algorithms compared: baseline ML models, cloud-specific AI methods, ensemble learning.
+
+- Metrics: accuracy, F1, workload prediction efficiency.
+
+( tables/figures once experiments )
+
+
+Citation
+
+If you use this repository in your research, please cite:
+```
+@misc{algoevalgcd2025,
+  title   = {AlgoEval-GCD: Algorithm Evaluation on Google Cluster Data},
+  author  = {Mohammed A.S. Al-Hitawi, Ahmed Hadi},
+  year    = {2025},
+  url     = {https://github.com/Mohammed20201991/AlgoEval-GCD}
+}
+
+```
