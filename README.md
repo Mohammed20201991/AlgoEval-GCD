@@ -67,13 +67,10 @@ See the paper for full discussion. Headline test-set results:
 
 ## Citation
 
-```bibtex
-@misc{algoevalgcd2025,
-  title   = {AlgoEval-GCD: Algorithm Evaluation on Google Cluster Data},
-  author  = {Al-Hitawi, Mohammed A.S. and Hadi, Ahmed},
-  year    = {2025},
-  url     = {https://github.com/Mohammed20201991/AlgoEval-GCD}
-}
+```
+Mohammed Lateef H, Abduljawad Al-Shibly M, Hadi Ali AL-Jumaili A et al. 
+Intelligent Cloud Resource Usage Potentially to Improve Task Scheduling by the use of Artificial Intelligence 
+[version 3; peer review: 2 approved]. F1000Research 2026, 15:366 (https://doi.org/10.12688/f1000research.177203.3)
 ```
 
 ## License
