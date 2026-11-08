@@ -72,7 +72,7 @@ Mohammed Lateef H, Abduljawad Al-Shibly M, Hadi Ali AL-Jumaili A et al.
 Intelligent Cloud Resource Usage Potentially to Improve Task Scheduling by the use of Artificial Intelligence 
 [version 3; peer review: 2 approved]. F1000Research 2026, 15:366 (https://doi.org/10.12688/f1000research.177203.3)
 ```
-
+https://www.scopus.com/pages/publications/105052817241?origin=resultslist
 ## License
 
 MIT License — see `LICENSE`.
